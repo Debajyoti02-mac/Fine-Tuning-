@@ -1,0 +1,14 @@
+[
+    {
+        "question": "what is python?",
+        "answer": "python is high level programing language."
+    },
+    {
+        "question": "What is RAG?",
+        "answer": "RAG retrieves relevant information and gives it to a language model."
+    },
+    {
+        "question": "What is FastAPI?",
+        "answer": "FastAPI is a Python framework for building APIs."
+    }
+]
