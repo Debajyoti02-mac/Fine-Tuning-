@@ -1,0 +1,14 @@
+[
+    {
+        "question": "what is python?",
+        "answer": "python is a high level programming language."
+    },
+    {
+        "question": "what is machine learning?",
+        "answer": "machine learning is a method where computers learn patterns from data."
+    },
+    {
+        "question": "what is AI?",
+        "answer": "AI is the field of building systems that can perform tasks requiring intelligence."
+    }
+]
